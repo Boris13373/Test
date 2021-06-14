@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e012"
+  },
+  "data": {
+    "$date": "2016-01-01T00:00:00Z"
+  },
+  "accuralID": "1",
+  "accuralmonth": 1
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e013"
+  },
+  "data": {
+    "$date": "2016-02-01T00:00:00Z"
+  },
+  "accuralID": "2",
+  "accuralmonth": 2
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e014"
+  },
+  "data": {
+    "$date": "2016-04-01T00:00:00Z"
+  },
+  "accuralID": "3",
+  "accuralmonth": 4
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e015"
+  },
+  "data": {
+    "$date": "2016-06-01T00:30:32Z"
+  },
+  "accuralID": "4",
+  "accuralmonth": 6
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e016"
+  },
+  "data": {
+    "$date": "2016-06-01T05:00:00Z"
+  },
+  "accuralID": "5",
+  "accuralmonth": 6
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e017"
+  },
+  "data": {
+    "$date": "2016-06-01T10:00:00Z"
+  },
+  "accuralID": "6",
+  "accuralmonth": 6
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e018"
+  },
+  "data": {
+    "$date": "2016-07-01T00:00:00Z"
+  },
+  "accuralID": "7",
+  "accuralmonth": 7
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e019"
+  },
+  "data": {
+    "$date": "2016-08-01T00:00:00Z"
+  },
+  "accuralID": "8",
+  "accuralmonth": 8
+},{
+  "_id": {
+    "$oid": "60c28d4273822f1f3845e01a"
+  },
+  "data": {
+    "$date": "2016-12-01T00:00:00Z"
+  },
+  "accuralID": "9",
+  "accuralmonth": 12
+}]
