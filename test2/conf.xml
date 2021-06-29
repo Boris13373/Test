@@ -1,0 +1,12 @@
+<config>
+    <file
+            source_path="C:\Users\user\Downloads\Telegram Desktop\"
+            destination_path="C:\Users\user\Desktop\Работа\"
+            file_name="1file.png"
+    />
+    <file
+            source_path="C:\Users\user\Downloads\Telegram Desktop\"
+            destination_path="C:\Users\user\Desktop\Работа\"
+            file_name="2file.png"
+    />
+</config>
